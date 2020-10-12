@@ -3,7 +3,7 @@
 <head>
 <title>Hoja de vida </title>
 </head>
-<body bgcolor=#000000  >
+<body bgcolor=#000000>
 
 
 <center><font size=10 color= white>
