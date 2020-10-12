@@ -30,7 +30,7 @@ HOJA DE VIDA</font></center><hr width ="" size="4">
 </table>
 
 <br>
-<H3>ESTUDIOS REALIZADOS</H3> 
+<H3>ESTUDIOS REALIZADOS</H3>  
 <TABLE BORDER =1>
 
 <tr><td> <font size=4 color= black>PRIMARIA   </td><tD> <font size=4 color= FFFF33>ESCUELA María del Rosario de Salazar</td></tr>
