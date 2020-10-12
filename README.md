@@ -3,10 +3,9 @@
 <head>
 <title>Hoja de vida </title>
 </head>
-<body bgcolor=#000000>
+<body>
 
-
-<center><font size=10 color= white>
+<center><font size=10 color= black>
 HOJA DE VIDA</font></center><hr width ="" size="4">
 
  <font size=20 color= RED> Vergara Cedeño, Edgar Humberto</font>
@@ -14,30 +13,30 @@ HOJA DE VIDA</font></center><hr width ="" size="4">
 <table border = 1>
 
 
-<tr><td> <font size=4 color= white>DIRECCION: </td>  <td> <font size=4 color= FFFF33>Tinajitas, Calle Principal</td> <td rowspan="3"> <img src="http://190.152.10.222/download/0803260991_11102012_1117.bmp " hight="100" widht="100" alt="J.J Marley"> </td></tr>
-<tr><td> <font size=4 color= white>TELEFONO:  </td>  <td> <font size=4 color= FFFF33>231-6791</td> </tr>
-<tr><td> <font size=4 color= white>MOVIL:     </td>  <td> <font size=4 color= FFFF33>6683-6441</td> </tr>
+<tr><td> <font size=4 color= black>DIRECCION: </td>  <td> <font size=4 color= FFFF33>Tinajitas, Calle Principal</td> <td rowspan="3"> <img src="http://190.152.10.222/download/0803260991_11102012_1117.bmp " hight="100" widht="100" alt="J.J Marley"> </td></tr>
+<tr><td> <font size=4 color= black>TELEFONO:  </td>  <td> <font size=4 color= FFFF33>231-6791</td> </tr>
+<tr><td> <font size=4 color= black>MOVIL:     </td>  <td> <font size=4 color= FFFF33>6683-6441</td> </tr>
 </table>
 <br>
 <h3> Datos Personales </h3>
 
 
-<table border = 1 > 
+<table border = 1> 
 
 
-<tr><td> <font size=4 color= white>NACIONALIDAD         </td><tD> <font size=4 color= FFFF33>Panameño</td></tr>
-<tr><td> <font size=4 color= white>FECHA DE NACIMIENTO  </td><td> <font size=4 color= FFFF33>12 DE Noviembre de 2001</td></tr>
-<tr><td> <font size=4 color= white>CEDULA DE IDENTIDAD  </td><td> <font size=4 color= FFFF33>8-996-1362</td></tr>
+<tr><td> <font size=4 color= black>NACIONALIDAD         </td><tD> <font size=4 color= FFFF33>Panameño</td></tr>
+<tr><td> <font size=4 color= black>FECHA DE NACIMIENTO  </td><td> <font size=4 color= FFFF33>12 DE Noviembre de 2001</td></tr>
+<tr><td> <font size=4 color= black>CEDULA DE IDENTIDAD  </td><td> <font size=4 color= FFFF33>8-996-1362</td></tr>
 </table>
 
 <br>
 <H3>ESTUDIOS REALIZADOS</H3> 
 <TABLE BORDER =1>
 
-<tr><td> <font size=4 color= white>PRIMARIA   </td><tD> <font size=4 color= FFFF33>ESCUELA María del Rosario de Salazar</td></tr>
-<tr><td> <font size=4 color= white>SECUNDARIA </td><tD> <font size=4 color= FFFF33>Academia Bilingue De San Lorenzo</td></tr>
+<tr><td> <font size=4 color= black>PRIMARIA   </td><tD> <font size=4 color= FFFF33>ESCUELA María del Rosario de Salazar</td></tr>
+<tr><td> <font size=4 color= black>SECUNDARIA </td><tD> <font size=4 color= FFFF33>Academia Bilingue De San Lorenzo</td></tr>
 
-<tr><td> <font size=4 color= white>TITULO OBTENIDO </td><tD> <font size=4 color= FFFF33> <a href="http://190.152.10.222/download/0803260991_11102012_1139.html#Titulo de Bachiller">Bachiller en Ciencias.</a> </td> </tr>
+<tr><td> <font size=4 color= black>TITULO OBTENIDO </td><tD> <font size=4 color= FFFF33> <a href="http://190.152.10.222/download/0803260991_11102012_1139.html#Titulo de Bachiller">Bachiller en Ciencias.</a> </td> </tr>
 <tr><td> <font size=4 color= FFFF33> <a href="http://190.152.10.222/download/0803260991_11102012_1139.html#Comprobante UTE LVT">Diploma de Bachiller en Ciencias.</a>
 </TABLE>
 
@@ -46,15 +45,15 @@ HOJA DE VIDA</font></center><hr width ="" size="4">
 
 
 <table Border = 1>
-<tr><td> <font size=4 color= white>CURSO DE Optativa: Diseño de paginas web.</td><tD>  <a href="http://190.152.10.222/download/0803260991_11102012_1139.html#Secap"><H2>"SECAP"</H2> </td> </tr> </a>
+<tr><td> <font size=4 color= black>CURSO DE Optativa: Diseño de paginas web.</td><tD>  <a href="http://190.152.10.222/download/0803260991_11102012_1139.html#Secap"><H2>"SECAP"</H2> </td> </tr> </a>
 
  </TABLE>
 <br>
 <H3>REFERENCIAS PERSONALES</H3> 
 <TABLE BORDER = 1>
-<tr><td> <font size=4 color= white>Sria. Samantha Chong</td><tD> <font size=4 color= FFFF33>MOVIL:</td><tD><font size=4 color= FFFF33>6546-7891</td></tr>
+<tr><td> <font size=4 color= black>Sria. Samantha Chong</td><tD> <font size=4 color= FFFF33>MOVIL:</td><tD><font size=4 color= FFFF33>6546-7891</td></tr>
 
-<tr><td><font size=4 color= white>Evans Pedro</td><tD> <font size=4 color= FFFF33>MOVIL:</td><tD><font size=4 color= FFFF33>6378-0143</td></tr>
+<tr><td><font size=4 color= black>Evans Pedro</td><tD> <font size=4 color= FFFF33>MOVIL:</td><tD><font size=4 color= FFFF33>6378-0143</td></tr>
 
 </TABLE>
 
